@@ -6,7 +6,7 @@
   <link href="http://lingren0702.github.io/atom.xml" rel="self"/>
   
   <link href="http://lingren0702.github.io/"/>
-  <updated>2023-11-01T16:15:19.762Z</updated>
+  <updated>2023-11-02T07:23:59.258Z</updated>
   <id>http://lingren0702.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阳光不燥, 微风正好</title>
+    <link href="http://lingren0702.github.io/posts/9520.html"/>
+    <id>http://lingren0702.github.io/posts/9520.html</id>
+    <published>2023-11-02T06:54:40.823Z</published>
+    <updated>2023-11-02T07:23:59.258Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="乡愁"><a href="#乡愁" class="headerlink" title="乡愁"></a>乡愁</h1><blockquote><p>小时候，<br>  乡愁是一枚小小的邮票，<br>  我在这头，<br>  母亲在那头。</p></blockquote><p>  长大后，<br>  乡愁是一张窄窄的船票，<br>  我在这头，<br>  新娘在那头。</p><p>  后来啊，<br>  乡愁是一方矮矮的坟墓，<br>  我在外头，<br>  母亲在里头。</p><p>  而现在，<br>  乡愁是一湾浅浅的海峡，<br>  我在这头，<br>  大陆在那头。</p><p>This is my website, click the button <a class="btn-beautify " href="https://butterfly.js.org"   title="Butterfly"><span>Butterfly</span></a><br>This is my website, click the button <a class="btn-beautify outline" href="https://butterfly.js.org"   title="Butterfly"><span>Butterfly</span></a></p><div class="note simple"><p>默認 提示塊標籤</p></div><div class="note default simple"><p>default 提示塊標籤</p></div><div class="note primary simple"><p>primary 提示塊標籤</p></div><div class="note success simple"><p>success 提示塊標籤</p></div><div class="note info simple"><p>info 提示塊標籤</p></div><div class="note warning simple"><p>warning 提示塊標籤</p></div><div class="note danger simple"><p>danger 提示塊標籤</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;乡愁&quot;&gt;&lt;a href=&quot;#乡愁&quot; class=&quot;headerlink&quot; title=&quot;乡愁&quot;&gt;&lt;/a&gt;乡愁&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;小时候，&lt;br&gt;  乡愁是一枚小小的邮票，&lt;br&gt;  我在这头，&lt;br&gt;  母亲在那头。&lt;/p&gt;
+&lt;/blockq</summary>
+      
+    
+    
+    
+    
+    <category term="生活" scheme="http://lingren0702.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
