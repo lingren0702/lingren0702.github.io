@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kris|Blog</title>
-  <icon>https://www.gravatar.com/avatar/a969bf7bb1fedd39a710d9a6287ab97e</icon>
+  <icon>https://www.gravatar.com/avatar/b1495d6f3a51a356f2efb8bd43e870b7</icon>
   <subtitle>生活明朗 万物可爱</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>Kris</name>
-    <email>lingren0316@gmail.com</email>
+    <email>lingren0702@126.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
