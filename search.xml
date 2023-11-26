@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/2023/11/26/%E5%AD%A6%E4%B9%A0/npm/"/>
+      <url>/2023/11/26/%E5%AD%A6%E4%B9%A0/npm/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-footer-beautify --save</span><br></pre></td></tr></table></figure><h2 id="首页磁贴"><a href="#首页磁贴" class="headerlink" title="首页磁贴"></a>首页磁贴</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install hexo-butterfly-categories-card --save</span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>六大排序算法</title>
       <link href="/2023/11/17/%E5%AD%A6%E4%B9%A0/%E5%85%AD%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/"/>
       <url>/2023/11/17/%E5%AD%A6%E4%B9%A0/%E5%85%AD%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</url>
